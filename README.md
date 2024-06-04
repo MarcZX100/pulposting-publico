@@ -1,3 +1,6 @@
+Lo he puesto en publico no sé para que la verdad; ya no lo uso
+Bot con muy gran variedad de comandos de utilidad y otros
+
 # Pulposting
   [![Discord Bots](https://top.gg/api/widget/758388900468883466.svg)](https://top.gg/bot/758388900468883466)
 ### A hacer
